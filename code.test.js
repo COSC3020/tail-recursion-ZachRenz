@@ -1,3 +1,4 @@
+// I modified the testing code from fibonnaci invariants so I could test with a different fib function 
 const fs = require('fs');
 const jsc = require('jsverify');
 
